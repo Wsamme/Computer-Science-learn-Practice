@@ -8,7 +8,7 @@
 
 | Month     | Highlights Summary                     |
 |-----------|-----------------------------------------|
-| [2025-05](./2025-05/README.md) | PPO reward tuning, sim2real deployment, thesis |
+| [2025-05](./2025-05/README.md) | CS begin |
 | [2025-06](./2025-06/README.md) | (To be added...)                             |
 | [2025-07](./2025-07/README.md) |                                               |
 
@@ -24,7 +24,7 @@ This is a **learning accountability log**, documenting major learning milestones
 
 ---
 
-## 📘 Covered Topics (so far)
+## 📘 Covered Topics (plan)
 
 - Reinforcement Learning (PPO, curriculum)
 - IsaacGym / IsaacLab Simulations
